@@ -60,3 +60,17 @@ li.completed {
   text-decoration: line-through;
   color: #777;
 }
+
+.delete-btn {
+  margin-left: 10px;
+  background-color: #e74c3c;
+  border: none;
+  color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 4px 8px;
+}
+
+.delete-btn:hover {
+  background-color: #c0392b;
+}
