@@ -74,3 +74,8 @@ li.completed {
 .delete-btn:hover {
   background-color: #c0392b;
 }
+
+input::placeholder {
+  color: #aaa;
+  font-style: italic;
+}
