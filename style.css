@@ -63,6 +63,11 @@ li.completed {
   border-radius: 4px;
 }
 
+li:hover {
+  background-color: #eef6ff;
+  cursor: pointer;
+}
+
 .delete-btn {
   margin-left: 10px;
   background-color: #e74c3b;
