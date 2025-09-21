@@ -79,3 +79,18 @@ input::placeholder {
   color: #aaa;
   font-style: italic;
 }
+
+#delete-all {
+  margin-top: 12px;
+  padding: 8px 16px;
+  background-color: #e74c3c;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  display: none;
+}
+
+#delete-all:hover {
+  background-color: #c0392b;
+}
