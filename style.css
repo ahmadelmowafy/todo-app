@@ -77,6 +77,7 @@ li.completed {
 li:hover {
   background-color: #eef6ff;
   cursor: pointer;
+  transform: scale(1.01);
 }
 
 .delete-btn {
