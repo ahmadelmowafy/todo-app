@@ -39,7 +39,7 @@ input {
 }
 
 input:focus {
-  border-color: #007acc;
+  border-color: #027cce;
   box-shadow: 0 0 5px rgba(0, 122, 204, 0.5);
 }
 
